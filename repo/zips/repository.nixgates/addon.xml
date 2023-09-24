@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.nixgates" name="Nixgates Repo" version="2.2.0" provider-name="Nixgates">
+<addon id="repository.nixgates" name="Nixgates Repo" version="2.3.0" provider-name="Nixgates">
 	<extension point="xbmc.addon.repository" name="Nixgates Repo">
 		<dir minversion="18.0">
 			<info compressed="false">https://raw.githubusercontent.com/nixgates/nixgates/master/repo/zips/addons.xml</info>
